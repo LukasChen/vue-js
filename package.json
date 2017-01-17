@@ -1,0 +1,17 @@
+{
+  "name": "vue-js",
+  "version": "0.1.0",
+  "description": "This is a repo I use to test vue.js",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "VueJS"
+  ],
+  "author": "Lukas Chen",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.1.9"
+  }
+}
