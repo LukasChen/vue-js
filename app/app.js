@@ -1,12 +1,10 @@
 new Vue({
   el: "#app",
   data: {
-    message: "Hello World!",
-    car_services: ["Fuel Car", "Paint Car", "Customize Car"]
+    firstName: "Boba Fett",
+    changeFirstName: false
   },
   methods: {
-    realService: function() {
-      alert("Just what you are thinking there buddy!");
-    }
+    
   }
 })
